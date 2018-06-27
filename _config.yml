@@ -7,7 +7,7 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : ComputerPhreaks
   description                  : >
-                               A consulting company focused on making your technologies work for you.
+                               A consulting company focused on making your technologies work for you! -
 
 # Layout configuration
   logo_path                  : "" # path to logo file
