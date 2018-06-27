@@ -7,10 +7,10 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : ComputerPhreaks
   description                  : >
-                               A consulting company focused on making your technologies work for you.
+                               A consulting company focused on making your technologies work for you! -
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  logo_path                  : "" # path to logo file
   search_path                : "computerphreaks.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
@@ -35,8 +35,8 @@ author:
   # stackoverflow             : stackoverflow-user-name
   # disqus                    : dactl # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
+  #photo                     : "uploads/me2.png"
+  #photo2x                   : "uploads/me.png"
 
 
 
