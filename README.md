@@ -1,3 +1,9 @@
+# ComputerPhreaks DotCom
+
+This site proudly uses open source tools and leverages providers that allow free use for open source projects in the spirit of sharing information to allow people to improve their lives and be better at their jobs by seeing how things work.
+
+The below is a description of the theme we are using and how to utilize it on your own site.
+
 # dactl
 dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
 
