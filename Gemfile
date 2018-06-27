@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-mentions"
   gem "jekyll-github-metadata"
   gem "jekyll-redirect-from"
+  gem "jemoji"
 end
