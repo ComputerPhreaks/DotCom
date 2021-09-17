@@ -28,7 +28,7 @@ blog:
 author:
   fullname                  : Ethan Spoelstra
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : computerphreaks@ews.me # change to your e-mail address
+  mail                      : computerphreaks+ghpages@ews.me # change to your e-mail address
   twitter                   : ewspoelstra
   github                    : espoelstra
   # youtube                   : youtube-user-name
