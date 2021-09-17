@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.6"
 gem "rouge", "~> 1.0"
+gem "kramdown", ">= 2.3.1"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
